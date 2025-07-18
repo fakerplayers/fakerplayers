@@ -5,6 +5,10 @@
 
 ---
 
+### 📊 Статистика
+![Статистика профиля](https://github-readme-stats.vercel.app/api?username=fakerplayers&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
+
+---
+
 ### 📲 Связаться со мной
 **Telegram:** [@formalnosst](https://t.me/formalnosst)
-
