@@ -6,16 +6,7 @@
 
 ---
 
-### Стек
 
-<div align="center">
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"> C#</code> &nbsp;
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"> Python</code> &nbsp;
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"> Node.js</code> &nbsp;
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"> React</code>
-
-</div>
 
 ---
 
