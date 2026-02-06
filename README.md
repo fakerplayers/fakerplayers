@@ -6,19 +6,17 @@
 
 ---
 
-
-
----
-
-### Статистика
+### Стек
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fakerplayers&show_icons=true&theme=default&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakerplayers&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff" width="49%" />
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"> C#</code> &nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"> Python</code> &nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"> Node.js</code> &nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"> React</code>
 
 </div>
+
 
 ---
 
